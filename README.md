@@ -64,7 +64,7 @@ The application displays the text **"Dream big. Start small."** in the center of
 
 **Actual Result:** Passed 
 
-![Test Case 1](testcase1.png)
+![Test Case 1](testcase1.jpeg)
 
 ---
 

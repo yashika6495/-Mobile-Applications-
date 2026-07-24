@@ -42,15 +42,9 @@ Mobile-Applications/
 
 ---
 
-## Android Studio
-
-![Android Studio](screenshots/android_studio.png)
-
----
-
 ## Application Output
 
-![Output](screenshots/output.png)
+![Output]
 
 The application displays the text **"Dream big. Start small."** in the center of the screen using ConstraintLayout.
 
@@ -76,7 +70,7 @@ The application displays the text **"Dream big. Start small."** in the center of
 
 **Actual Result:** Passed 
 
-![Test Case 2](screenshots/testcase2.png)
+![Test Case 2](testcase2.jpeg)
 
 ---
 
@@ -88,7 +82,7 @@ The application displays the text **"Dream big. Start small."** in the center of
 
 **Actual Result:** Passed 
 
-![Test Case 3](screenshots/testcase3.png)
+![Test Case 3](testcase3.jpeg)
 
 ---
 

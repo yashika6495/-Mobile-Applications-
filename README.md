@@ -11,7 +11,8 @@ This repository contains all the experiments completed as part of the **Mobile A
 
 ## 📂 Experiments
 
-| No.  | Experiment              | Description                                                                                                                  |
-|------|-------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| 1    | [Experiment 1](Exp%201) | Create a simple Android application that displays a motivational message using **ConstraintLayout** and **TextView**.        |
-| 2    | [Experiment 2](Exp%202) | Demonstrate the Android Activity Lifecycle using lifecycle callback methods (`onCreate()`, `onStart()`, `onResume()`, etc.). |
+| No. | Experiment              | Description                                                                                                                  |
+|-----|-------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Experiment 1](Exp%201) | Create a simple Android application that displays a motivational message using **ConstraintLayout** and **TextView**.        |
+| 2   | [Experiment 2](Exp%202) | Demonstrate the Android Activity Lifecycle using lifecycle callback methods (`onCreate()`, `onStart()`, `onResume()`, etc.). |
+| 3   | [Experiment 3](Exp%203) | Develop an Android application that uses Fragments to create a flexible user interface.                                                                                                                             |

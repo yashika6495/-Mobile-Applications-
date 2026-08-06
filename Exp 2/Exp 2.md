@@ -27,8 +27,9 @@ Toast 3: **onPause**
 Toast 4: **onStart**
 
 ---
+## Test Cases
 
-## Test Case 1
+### Test Case 1
 
 **Input:** Launch the application
 

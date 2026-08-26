@@ -367,8 +367,8 @@ Click **Open Second Activity**.
 The second Activity opens and displays the Name and USN.
 
 ### Screenshot
-
-![Test Case 1](screenshots/test-cases/test-case-1.png)
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 28 52 PM" src="https://github.com/user-attachments/assets/2a75940f-6036-4c8a-8d20-799d9229e8d9" />
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 28 48 PM" src="https://github.com/user-attachments/assets/39f131b2-75e7-46eb-8ad1-fa04d1c26b32" />
 
 ---
 
@@ -397,8 +397,6 @@ The second Activity should not open.
 
 ### Screenshot
 
-![Test Case 2](screenshots/test-cases/test-case-2.png)
-
 ---
 
 ## Test Case 3 — Student Identity Verification
@@ -419,8 +417,9 @@ Click **Open Second Activity**.
 The second Activity displays the student's Name and USN.
 
 ### Screenshot
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 28 52 PM" src="https://github.com/user-attachments/assets/1c7fbf86-3d15-4cb6-8026-80928a6ab04c" />
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 28 48 PM" src="https://github.com/user-attachments/assets/f09d7c70-cdd5-4c4d-9996-c7044c24a27b" />
 
-![Test Case 3 — Name and USN](screenshots/test-cases/test-case-3.png)
 
 > This test case specifically demonstrates the student's Name and USN as required for the experiment submission.
 
@@ -432,9 +431,6 @@ The final application successfully links the two Activities.
 
 ### Main Output
 
-<img width="1470" height="879" alt="Screenshot 2026-08-20 at 10 47 34 AM" src="https://github.com/user-attachments/assets/65ba7603-2083-4a0b-bfd2-b3e06b782ad7" /><img width="1470" height="879" alt="Screenshot 2026-08-20 at 10 47 43 AM" src="https://github.com/user-attachments/assets/3bff3b7b-3f91-4757-9a9f-5b7e19406d34" />
-<img width="1470" height="879" alt="Screenshot 2026-08-20 at 10 47 40 AM" src="https://github.com/user-attachments/assets/031d3256-02a3-47ec-a963-702c6a8038cd" />
-<img width="1470" height="879" alt="Screenshot 2026-08-20 at 10 47 37 AM" src="https://github.com/user-attachments/assets/411ec11d-aadc-45e3-8850-612852fb4edf" />
 
 
 ---

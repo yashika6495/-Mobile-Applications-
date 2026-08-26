@@ -367,7 +367,8 @@ Click **Open Second Activity**.
 The second Activity opens and displays the Name and USN.
 
 ### Screenshot
-
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 39 16 PM" src="https://github.com/user-attachments/assets/0e4acf4d-5c9b-44e4-af87-ee79d6805fbc" />
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 39 29 PM" src="https://github.com/user-attachments/assets/edd7fcc6-8ff7-4d37-8d8c-457d64180826" />
 
 ---
 
@@ -395,7 +396,8 @@ Please enter both Name and USN
 The second Activity should not open.
 
 ### Screenshot
-
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 39 16 PM" src="https://github.com/user-attachments/assets/0e4acf4d-5c9b-44e4-af87-ee79d6805fbc" />
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 39 29 PM" src="https://github.com/user-attachments/assets/edd7fcc6-8ff7-4d37-8d8c-457d64180826" />
 
 ---
 
@@ -417,6 +419,8 @@ Click **Open Second Activity**.
 The second Activity displays the student's Name and USN.
 
 ### Screenshot
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 39 16 PM" src="https://github.com/user-attachments/assets/0e4acf4d-5c9b-44e4-af87-ee79d6805fbc" />
+<img width="368" height="773" alt="Screenshot 2026-08-26 at 2 39 29 PM" src="https://github.com/user-attachments/assets/edd7fcc6-8ff7-4d37-8d8c-457d64180826" />
 
 
 > This test case specifically demonstrates the student's Name and USN as required for the experiment submission.

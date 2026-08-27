@@ -709,6 +709,9 @@ The application displays a dark-themed Student Registration form containing:
 │             [ X ]             │
 └───────────────────────────────┘
 ```
+<img width="372" height="774" alt="c" src="https://github.com/user-attachments/assets/46f6f086-b3b3-465e-8990-a398385b62f3" />
+<img width="372" height="774" alt="b" src="https://github.com/user-attachments/assets/214599b9-0c08-4bea-a313-818633ef4b27" />
+<img width="372" height="774" alt="a" src="https://github.com/user-attachments/assets/9f696d8b-322a-47da-b92a-0ee28e2d8c47" />
 
 ---
 
